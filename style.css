@@ -404,7 +404,7 @@ header .navbar {
 @media screen and (max-width: 1024px) {
     /* ABOUT SECTION */
     .about-section .section-content {
-        margin: 15% 0 5%;
+        margin: 5% 0 5%;
     }
 
     .about-section .about-image-wrapper .about-image {
@@ -586,7 +586,7 @@ header .navbar {
         height: auto;
         max-width: 250px;
         aspect-ratio: 1;
-        margin-top: 40%;
+        margin-top: 5%;
     }
 
     /* PRODUCT SECTION */
@@ -632,5 +632,4 @@ header .navbar {
         flex-direction: row;
     }
 }
-
 
