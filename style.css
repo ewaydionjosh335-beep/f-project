@@ -279,7 +279,7 @@ header .navbar {
 
 /* CONTACT SECTION */
 .contact-section {
-    min-height: calc(100vh - 80px);
+    min-height: auto;
     background: #faf4f5;
     padding: 80px 0 100px;
 }
@@ -632,4 +632,5 @@ header .navbar {
         flex-direction: row;
     }
 }
+
 
