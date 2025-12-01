@@ -616,20 +616,3 @@ header .navbar {
         gap: 20px;
     }
 }
-
-@media screen and (min-width: 1024px) {
-    .product-section .product-list {
-        justify-content: space-between;
-    }
-
-    .product-section .product-item {
-        width: calc(100% / 3 - 60px);
-    }
-
-    .about-section .section-content,
-    .contact-section .section-content,
-    .footer-section .section-content {
-        flex-direction: row;
-    }
-}
-
