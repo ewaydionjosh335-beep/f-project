@@ -7,6 +7,11 @@
     box-sizing: border-box;
 }
 
+body {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -611,4 +616,5 @@ header .navbar {
         gap: 20px;
     }
 }
+
 
